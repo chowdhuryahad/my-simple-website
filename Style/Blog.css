@@ -1,0 +1,10 @@
+div{
+    background-color: rgb(209, 151, 231);
+    color: rgb(100, 3, 255);
+    padding: 10px;
+    border: 10;
+    border-radius: 4px;
+    size: 50%;
+    background-size: 50%;
+    margin-top: 50%;
+}
